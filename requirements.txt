@@ -1,0 +1,7 @@
+win32com.client 
+speech_recognition 
+os
+AppOpener 
+groq 
+datetime
+webbrowser
