@@ -32,10 +32,11 @@ Lisaara is a Python-based voice assistant that can listen to voice commands, res
 ## 📦 Installation
 
 ### 1️⃣ Clone the Repository
-```bash
+```
 git clone https://github.com/pals87893-max/Desktop_Ai.git
 cd lisaara-voice-assistant
-pip install requirements.txt ```
+pip install requirements.txt
+```
 
 🔑 Environment Setup
 Set Groq API Key (Required)
